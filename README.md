@@ -8,4 +8,4 @@ This model was trained on 100 epochs.
 
 **Note** to run this repo manually in your local system, you must need to install the required packages including the right version of python which you may find in requirements.txt file. Quick installation 
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
