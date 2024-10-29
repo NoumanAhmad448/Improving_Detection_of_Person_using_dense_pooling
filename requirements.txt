@@ -11,7 +11,7 @@ argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 array-record==0.2.0
 arviz==0.15.1
-astropy==5.2.2
+astropy==5.3.3
 astunparse==1.6.3
 attrs==23.1.0
 audioread==3.0.0
@@ -19,7 +19,7 @@ autograd==1.5
 Babel==2.12.1
 backcall==0.2.0
 beautifulsoup4==4.11.2
-black==23.3.0
+black==24.3.0
 bleach==6.0.0
 blis==0.7.9
 blosc2==2.0.0
@@ -33,7 +33,7 @@ CacheControl==0.12.11
 cached-property==1.5.2
 cachetools==5.3.0
 catalogue==2.0.8
-certifi==2022.12.7
+certifi==2024.7.4
 cffi==1.15.1
 chardet==4.0.0
 charset-normalizer==2.0.12
@@ -50,7 +50,7 @@ cons==0.4.5
 contextlib2==0.6.0.post1
 contourpy==1.0.7
 convertdate==2.4.0
-cryptography==40.0.2
+cryptography==43.0.1
 cufflinks==0.17.3
 cupy-cuda11x==11.0.0
 cvxopt==1.3.0
@@ -72,7 +72,7 @@ dill==0.3.6
 distributed==2022.12.1
 dlib==19.24.1
 dm-tree==0.1.8
-dnspython==2.3.0
+dnspython==2.6.1
 docutils==0.16
 dopamine-rl==4.0.6
 duckdb==0.7.1
@@ -86,7 +86,7 @@ ephem==4.1.4
 et-xmlfile==1.1.0
 etils==1.2.0
 etuples==0.3.8
-eventlet==0.33.3
+eventlet==0.35.2
 exceptiongroup==1.1.1
 fastai==2.7.12
 fastcore==1.5.29
@@ -99,11 +99,11 @@ fiftyone-brain==0.11.0
 fiftyone-db==0.4.0
 filelock==3.12.0
 firebase-admin==5.3.0
-Flask==2.2.4
+Flask==2.2.5
 flatbuffers==23.3.3
 flax==0.6.9
 folium==0.14.0
-fonttools==4.39.3
+fonttools==4.43.0
 frozendict==2.3.7
 fsspec==2023.4.0
 ftfy==6.1.1
@@ -140,7 +140,7 @@ googledrivedownloader==0.4
 graphql-core==3.2.3
 graphviz==0.20.1
 greenlet==2.0.2
-grpcio==1.54.0
+grpcio==1.54.3
 grpcio-status==1.48.2
 gspread==3.4.2
 gspread-dataframe==3.0.8
@@ -163,7 +163,7 @@ hydra-core==1.3.2
 hypercorn==0.14.3
 hyperframe==6.0.1
 hyperopt==0.2.7
-idna==3.4
+idna==3.7
 imageio==2.25.1
 imageio-ffmpeg==0.4.8
 imagesize==1.4.1
@@ -177,7 +177,7 @@ iniconfig==2.0.0
 intel-openmp==2023.1.0
 iopath==0.1.9
 ipykernel==5.5.6
-ipython==7.34.0
+ipython==8.10.0
 ipython-genutils==0.2.0
 ipython-sql==0.4.1
 ipywidgets==7.7.1
@@ -185,7 +185,7 @@ itsdangerous==2.1.2
 jax==0.4.10
 jaxlib @ https://storage.googleapis.com/jax-releases/cuda11/jaxlib-0.4.10+cuda11.cudnn86-cp310-cp310-manylinux2014_x86_64.whl#sha256=fe53205ef12727c80ed5ac2d4506d6732c0c3db69ede4565a7d4df98e609af84
 jieba==0.42.1
-Jinja2==3.1.2
+Jinja2==3.1.4
 jmespath==1.0.1
 joblib==1.2.0
 jsonlines==3.1.0
@@ -193,13 +193,13 @@ jsonpickle==3.0.1
 jsonschema==4.3.3
 jupyter-client==6.1.12
 jupyter-console==6.1.0
-jupyter-server==1.24.0
+jupyter-server==2.11.2
 jupyter_core==5.3.0
 jupyterlab-pygments==0.2.2
 jupyterlab-widgets==3.0.7
 kaggle==1.5.13
 kaleido==0.2.1
-keras==2.12.0
+keras==2.13.1
 kiwisolver==1.4.4
 korean-lunar-calendar==0.3.1
 langcodes==3.3.0
@@ -246,17 +246,17 @@ nbformat==5.8.0
 nest-asyncio==1.5.6
 networkx==3.1
 nibabel==3.0.2
-nltk==3.8.1
-notebook==6.4.8
+nltk==3.9
+notebook==6.4.12
 numba==0.56.4
-numexpr==2.8.4
+numexpr==2.8.5
 numpy==1.22.4
 oauth2client==4.1.3
 oauthlib==3.2.2
 omegaconf==2.3.0
-opencv-contrib-python==4.7.0.72
-opencv-python==4.7.0.72
-opencv-python-headless==4.7.0.72
+opencv-contrib-python==4.8.1.78
+opencv-python==4.8.1.78
+opencv-python-headless==4.8.1.78
 openpyxl==3.0.10
 opt-einsum==3.3.0
 optax==0.1.5
@@ -278,7 +278,7 @@ pathy==0.10.1
 patsy==0.5.3
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==8.4.0
+Pillow==10.3.0
 pip-tools==6.13.0
 platformdirs==3.3.0
 plotly==5.13.1
@@ -307,15 +307,15 @@ ptyprocess==0.7.0
 py-cpuinfo==9.0.0
 py4j==0.10.9.7
 py7zr==0.20.5
-pyarrow==9.0.0
+pyarrow==14.0.1
 pyasn1==0.5.0
 pyasn1-modules==0.3.0
 pybcj==1.0.1
 pycocotools==2.0.6
 pycparser==2.21
-pycryptodomex==3.18.0
+pycryptodomex==3.19.1
 pyct==0.5.0
-pydantic==1.10.7
+pydantic==1.10.13
 pydata-google-auth==1.7.0
 pydot==1.4.2
 pydot-ng==2.0.0
@@ -327,7 +327,7 @@ Pygments==2.14.0
 PyGObject==3.36.0
 pymc==5.1.2
 PyMeeus==0.5.12
-pymongo==4.3.3
+pymongo==4.6.3
 pymystem3==0.2.0
 pynndescent==0.5.10
 PyOpenGL==3.1.6
@@ -347,14 +347,14 @@ pytz==2022.7.1
 pytz-deprecation-shim==0.1.0.post0
 pyviz-comms==2.2.1
 PyWavelets==1.4.1
-PyYAML==5.1
+PyYAML==5.4
 pyzmq==23.2.1
 pyzstd==0.15.7
 qdldl==0.1.7
 qudida==0.0.4
 rarfile==4.0
 regex==2022.10.31
-requests==2.27.1
+requests==2.32.2
 requests-oauthlib==1.3.1
 requests-unixsocket==0.2.0
 requirements-parser==0.5.0
@@ -364,7 +364,7 @@ rpy2==3.5.5
 rsa==4.9
 s3transfer==0.6.1
 scikit-image==0.19.3
-scikit-learn==1.2.2
+scikit-learn==1.5.0
 scipy==1.10.1
 scs==3.2.3
 seaborn==0.12.2
@@ -390,13 +390,13 @@ sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.5
 SQLAlchemy==2.0.10
-sqlparse==0.4.4
+sqlparse==0.5.0
 srsly==2.4.6
 sse-starlette==0.10.3
 sseclient-py==1.7.2
-starlette==0.20.4
+starlette==0.40.0
 statsmodels==0.13.5
-strawberry-graphql==0.138.1
+strawberry-graphql==0.243.0
 sympy==1.11.1
 tables==3.8.0
 tabulate==0.8.10
@@ -405,7 +405,7 @@ tenacity==8.2.2
 tensorboard==2.12.2
 tensorboard-data-server==0.7.0
 tensorboard-plugin-wit==1.8.1
-tensorflow==2.12.0
+tensorflow==2.12.1
 tensorflow-datasets==4.9.2
 tensorflow-estimator==2.12.0
 tensorflow-gcs-config==2.12.0
@@ -434,8 +434,8 @@ torchmetrics==0.11.4
 torchsummary==1.5.1
 torchtext==0.15.2
 torchvision @ https://download.pytorch.org/whl/cu118/torchvision-0.15.2%2Bcu118-cp310-cp310-linux_x86_64.whl#sha256=19ca4ab5d6179bbe53cff79df1a855ee6533c2861ddc7389f68349d8b9f8302a
-tornado==6.3.1
-tqdm==4.65.0
+tornado==6.4.1
+tqdm==4.66.3
 traitlets==5.7.1
 triton==2.0.0
 tweepy==4.13.0
@@ -447,7 +447,7 @@ tzlocal==4.3
 umap-learn==0.5.3
 universal-analytics-python3==1.1.1
 uritemplate==4.1.1
-urllib3==1.26.15
+urllib3==1.26.19
 vega-datasets==0.9.0
 voxel51-eta==0.9.0
 wasabi==1.1.1
@@ -455,7 +455,7 @@ wcwidth==0.2.6
 webcolors==1.13
 webencodings==0.5.1
 websocket-client==1.5.1
-Werkzeug==2.3.0
+Werkzeug==3.0.6
 widgetsnbextension==3.6.4
 wordcloud==1.8.2.2
 wrapt==1.14.1
@@ -469,4 +469,4 @@ yacs==0.1.8
 yellowbrick==1.5
 yfinance==0.2.18
 zict==3.0.0
-zipp==3.15.0
+zipp==3.19.1
