@@ -140,7 +140,7 @@ googledrivedownloader==0.4
 graphql-core==3.2.3
 graphviz==0.20.1
 greenlet==2.0.2
-grpcio==1.54.0
+grpcio==1.54.3
 grpcio-status==1.48.2
 gspread==3.4.2
 gspread-dataframe==3.0.8
