@@ -313,7 +313,7 @@ pyasn1-modules==0.3.0
 pybcj==1.0.1
 pycocotools==2.0.6
 pycparser==2.21
-pycryptodomex==3.18.0
+pycryptodomex==3.19.1
 pyct==0.5.0
 pydantic==1.10.7
 pydata-google-auth==1.7.0
