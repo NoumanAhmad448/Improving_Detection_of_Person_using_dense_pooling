@@ -4,8 +4,16 @@
 
 
 This repo has been created to introduce a appraoch to use dense pooling technique with resnet-50 and resnet-101 backbone while using Faster RCNN trained model. 
-This model was trained on 100 epochs. 
+> [!TIP]
+> **This model was trained on 100 epochs**
 
-**Note** to run this repo manually in your local system, you must need to install the required packages including the right version of python which you may find in requirements.txt file. Quick installation 
+> [!TIP]
+> Install required dependencies by running the following command
 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
+
+## Our Paper
+> [!TIP]
+> https://arxiv.org/abs/2410.20966 
