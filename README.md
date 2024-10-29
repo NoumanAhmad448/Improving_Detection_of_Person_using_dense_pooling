@@ -19,3 +19,7 @@ pip install -r requirements.txt
 ## Our Paper
 > [!TIP]
 > https://arxiv.org/abs/2410.20966 
+
+
+## License
+This repository is licensed under the [Apache-2.0 License](LICENSE).
